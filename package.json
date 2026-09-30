@@ -1,0 +1,15 @@
+{
+  "name": "@magician-network/trustgraph",
+  "version": "0.0.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "description": "trustgraph — the reserved standing service of the Magician network: it will compute standing over the trust graph (graph/1 + trust/1), derived only from what others assert. Reservation and product charter; no service code exists yet.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test 'test/**/*.test.mjs'",
+    "lint": "node tools/lint.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
