@@ -62,7 +62,7 @@ turns a computed standing into an authorisation. Agents suggest; humans consent.
 | `flashyos.roles.json` | The AAO charter — five roles (`product`, `engineering`, `operations`, `review`, `conformance`), the single source a live org is provisioned from. |
 | `directory.fragment.json` | This org's `directory/1` node: the org, one agent per role, and the accountable person. Generated from the charter. |
 | `MESH.md` | How trustgraph sits on the FlashyOS mesh, and how a live org is provisioned from the charter. |
-| `vendor-aao-check.mjs` | The estate's dependency-free AAO checker, byte-identical to the copy in the [aao](https://github.com/FlashyLabs/aao) repository. Re-vendor, never edit. |
+| `vendor-aao-check.mjs` | The estate's dependency-free AAO checker, byte-identical to the copy in the [aao](https://github.com/AgenteLabs/aao) repository. Re-vendor, never edit. |
 | `test/` | `node --test`: the charter validates with zero issues, its roles cross-reference this repository, and the vendored checker has not drifted. |
 | `tools/lint.mjs` | `node --check` over every `.mjs` in the tree. |
 
