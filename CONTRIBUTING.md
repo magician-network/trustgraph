@@ -52,7 +52,7 @@ is wrong however convenient, and will be declined.
 - Any reward, token or incentive mechanic as an input to standing.
 - Hand-editing `vendor-aao-check.mjs` or any vendored file. Re-vendor from the
   source, never edit the copy.
-- A change to the licence. It is Apache-2.0 (holder Flashy Labs), declared once
+- A change to the licence. It is Apache-2.0 (holder Agente Labs), declared once
   in the estate register in flashyos `tools/estate-licences.mjs`; that register
   is the authority, not a decision made in this repository.
 
