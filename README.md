@@ -101,4 +101,4 @@ not exist.
 
 Status: reserved — no service code exists yet; the service is the roadmap, not built.
 
-Licensed under Apache-2.0 (holder Flashy Labs); the estate register in flashyos `tools/estate-licences.mjs` is the authority.
+Licensed under Apache-2.0 (holder Agente Labs); the estate register in flashyos `tools/estate-licences.mjs` is the authority.
